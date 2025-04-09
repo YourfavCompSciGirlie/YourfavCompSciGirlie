@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF1493&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Malaika+%3C3;Welcome+to+my+profile!" alt="Header">
+</div>
+
+
+
+
+
+
+
 
 <!--
 **YourfavCompSciGirlie/YourfavCompSciGirlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
