@@ -8,12 +8,83 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/postits.gif" width="60px" height="50px"> Who Am I?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="60px" height="50px"> My Toolbox
 
-
-
 <details>
-  <summary><strong> 🖥️ Languages </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> Languages </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -36,7 +107,7 @@
 
 
 <details>
-  <summary><strong> 🧰 Frameworks, Libraries & APIs </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> Frameworks, Libraries & APIs </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
@@ -58,7 +129,7 @@
 
 
 <details>
-  <summary><strong> 🗄️ Databases </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> Databases </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
@@ -73,7 +144,7 @@
 
 
 <details>
-  <summary><strong> ⚙️ DevOps, Cloud & Deployment </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> DevOps, Cloud & Deployment </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
@@ -86,7 +157,7 @@
 
 
 <details>
-  <summary><strong> 🛠️ Software & Tools </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> Software & Tools </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -113,7 +184,7 @@
 
 
 <details>
-  <summary><strong> 🧪 Testing </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> Testing </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
@@ -125,7 +196,7 @@
 
 
 <details>
-  <summary><strong> 📚 Domain Knowledge & Skills </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> Domain Knowledge & Skills </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![Computer Science](https://img.shields.io/badge/Computer_Science-0078D4?logo=academia&logoColor=white)
@@ -137,7 +208,7 @@
 
 
 <details>
-  <summary><strong> 🌐 IoT and Embedded Systems </strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> IoT and Embedded Systems </strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
@@ -146,12 +217,59 @@
 
 
 <details>
-  <summary><strong> 🔥 Backend as a Service (BaaS)</strong> <sub>(click to expand)</sub></summary>
+  <summary><strong> Backend as a Service (BaaS)</strong> <sub>(click to expand)</sub></summary>
   <br>
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+  ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="60px" height="50px">Let's Connect!
+
+<p align="center">
+  <a href="mailto:m.ykamangu@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" style="margin: 0 8px; transition: transform 0.2s;">
+  </a>
+  <a href="https://www.linkedin.com/in/ymkamangu/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin: 0 8px; transition: transform 0.2s;">
+  </a>
+  <a href="https://www.instagram.com/its.malaikaaa/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" style="margin: 0 8px; transition: transform 0.2s;">
+  </a>
+</p>
+
+<p align="center">
+  Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!
+</p>
+
+<style>
+  a img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
