@@ -234,17 +234,17 @@
 
 
 
-  ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="60px" height="50px">Let's Connect!
+## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="60px" height="50px"> Let's Connect!
 
 <p align="center">
   <a href="mailto:m.ykamangu@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" style="margin: 0 15px; transition: transform 0.2s;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://www.linkedin.com/in/ymkamangu/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin: 0 15px; transition: transform 0.2s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://www.instagram.com/its.malaikaaa/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" style="margin: 0 15px; transition: transform 0.2s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" style="margin: 0 15px;">
   </a>
 </p>
 
@@ -252,11 +252,6 @@
   Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!
 </p>
 
-<style>
-  a img:hover {
-    transform: scale(1.1);
-  }
-</style>
 
 
 
