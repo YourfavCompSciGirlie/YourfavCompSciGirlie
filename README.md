@@ -18,47 +18,20 @@
 
 
 
+## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/postits.gif" width="60px" height="50px"> Who Am I?
 
+<p align="center" style="font-size:16px;">
+  I'm <strong>MALAIKA</strong>, an enthusiastic advocate of the <strong>STEAM</strong> 💨:<br>
+  🔬 <em>Science</em>   •  💡 <em>Technology</em>  •   🏗 <em>Engineering</em>  •  🎨 <em>Art</em>  •  📈 <em>Math</em>
+</p>
 
+<br>
 
+As a final year <strong>Computer Science student</strong>, I am deeply passionate about the fields of <strong>AI/ML</strong> and <strong>Data Science</strong>, with a particular interest in robotics. I thrive at the intersection of these disciplines, where technology, creativity, and problem-solving converge. Through my academic journey, I’ve developed a strong foundation in machine learning algorithms, data analytics, and AI-driven solutions.
 
+My passion for robotics is growing, and I am eager to dive deeper into this field in the future. Ultimately, my goal is to leverage AI, machine learning, and data science to create innovative technologies that positively impact society, with a focus on developing intelligent and autonomous systems.
 
-
-
-
-
-  ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/postits.gif" width="60px" height="50px"> Who Am I?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 
 
@@ -253,16 +226,6 @@
 <p align="center">
   Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!
 </p>
-
-
-
-
-
-
-
-
-
-
 
 
 
