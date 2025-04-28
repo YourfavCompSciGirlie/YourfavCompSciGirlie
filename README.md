@@ -238,19 +238,20 @@
 
 <p align="center">
   <a href="mailto:m.ykamangu@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" style="margin: 0 30px;">
   </a>
   <a href="https://www.linkedin.com/in/ymkamangu/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin: 0 30px;">
   </a>
   <a href="https://www.instagram.com/its.malaikaaa/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" style="margin: 0 30px;">
   </a>
 </p>
 
 <p align="center">
   Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!
 </p>
+
 
 
 
